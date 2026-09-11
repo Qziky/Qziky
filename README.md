@@ -1,89 +1,101 @@
 <div align="center">
 
-# Qziky
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0ea5e9&height=220&section=header&text=QZIKY&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=心有阳光，万物可爱&descAlignY=62&descSize=20" width="100%" alt="QZIKY 个人主页头图" />
 
-**心有阳光，万物可爱**
-
-计算机专业在读大学生 · 全栈开发者 · Vibe Coder · AI 爱好者
-
-📍 四川成都
-
-[个人网站](https://www.qziky.com/) · [GitHub](https://github.com/Qziky) · [Telegram](https://t.me/Qziky)
+<a href="https://www.qziky.com/"><img src="https://img.shields.io/badge/Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="个人网站" /></a>
+<a href="https://github.com/Qziky"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:1965463327@qq.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" /></a>
+<a href="https://t.me/Qziky"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
 
----
+## `whoami`
 
-## 关于我
+```text
+ID        Qziky
+ROLE      Computer Science Student · Full-Stack Developer
+FOCUS     Vibe Coding · AI Products · Creative Tools
+LOCATION  Chengdu, Sichuan
+MBTI      INFJ-T
+```
 
-我喜欢把想法做成真正可用的产品，关注从项目设计、开发到运维的完整流程，也持续探索 AI 如何改善创作与开发效率。
+> 把灵感变成产品，把复杂的技术变成简单的体验。
 
-- **ID：** Qziky
-- **MBTI：** INFJ-T
-- **词条：** 全栈 · Vibe Coder · AI 爱好者
-- **兴趣方向：** 产品设计、全栈开发、AI 工具与创意表达
+## Tech Stack
 
-## 技能与能力
+<div align="center">
 
-| 方向 | 能力 |
+![React](https://skillicons.dev/icons?i=react)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Python](https://skillicons.dev/icons?i=python)
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+</div>
+
+| 能力 | 我在做什么 |
 | --- | --- |
-| 全栈开发 | 全栈项目设计、开发、部署与运维 |
-| 内容创作 | PPT 制作、视频剪辑 |
-| 技术探索 | AI 应用、开发效率工具、个人产品 |
+| 全栈开发 | 设计、开发、部署和维护完整项目 |
+| AI 创作 | 探索 AI 辅助开发与内容生产 |
+| 视觉表达 | PPT 制作、视频剪辑与产品呈现 |
 
-### 技术方向
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-111827?style=flat-square&logo=openai&logoColor=white)
-
-## 代表项目
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [NovelCraft](https://github.com/Qziky/NovelCraft)
+### `01` · [NovelCraft](https://github.com/Qziky/NovelCraft)
+
+**AI × Novel Creation**
 
 面向创作者的小说创作项目，探索 AI 辅助写作、内容组织与沉浸式创作体验。
+
+<a href="https://github.com/Qziky/NovelCraft">View Repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### [Immersive-clock](https://github.com/Qziky/Immersive-clock)
+### `02` · [Immersive-clock](https://github.com/Qziky/Immersive-clock)
 
-一款专注沉浸感与专注体验的桌面时钟应用，融合倒计时、环境氛围与日常效率工具。
+**Focus × Desktop Experience**
+
+专注于沉浸感与效率体验的桌面时钟应用，融合倒计时、氛围和日常工具。
+
+<a href="https://github.com/Qziky/Immersive-clock">View Repository →</a>
 
 </td>
 </tr>
 </table>
 
-## 联系我
-
-- **邮箱：** [1965463327@qq.com](mailto:1965463327@qq.com)
-- **QQ：** `1965463327`
-- **Telegram：** [t.me/Qziky](https://t.me/Qziky)
-- **个人网站：** [qziky.com](https://www.qziky.com/)
-- **B站：** [Qziky](https://space.bilibili.com/3690999129836344)
-- **抖音：** [Qziky](https://v.douyin.com/o7JAksrBQgE)
-
-## GitHub 动态
+## Connect
 
 <div align="center">
 
-<a href="https://github.com/Qziky">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Qziky&show_icons=true&hide_border=true&theme=default&hide_title=true" alt="Qziky 的 GitHub 统计" />
-</a>
-<a href="https://github.com/Qziky">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qziky&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Qziky 常用编程语言" />
-</a>
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3690999129836344)
+[![Douyin](https://img.shields.io/badge/Douyin-000000?style=flat-square&logo=tiktok&logoColor=white)](https://v.douyin.com/o7JAksrBQgE)
+[![QQ](https://img.shields.io/badge/QQ-1965463327-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](mailto:1965463327@qq.com)
+
+</div>
+
+## GitHub Pulse
+
+<div align="center">
+
+<a href="https://github.com/Qziky"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Qziky&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=22d3ee&text_color=e2e8f0" alt="Qziky GitHub 统计" /></a>
+<a href="https://github.com/Qziky"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qziky&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" alt="Qziky 常用语言" /></a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Qziky&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="主页访问量" />
 
 </div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Qziky&style=flat-square&color=2ea44f)](https://github.com/Qziky)
+<sub>Designed with curiosity · Built with code · Updated September 11, 2026</sub>
 
 </div>
