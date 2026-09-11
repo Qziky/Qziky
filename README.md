@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0ea5e9&height=220&section=header&text=QZIKY&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=心有阳光，万物可爱&descAlignY=62&descSize=20" width="100%" alt="QZIKY 个人主页头图" />
+<img src="./assets/header.svg" width="100%" alt="QZIKY · 心有阳光，万物可爱" />
 
 <a href="https://www.qziky.com/"><img src="https://img.shields.io/badge/Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="个人网站" /></a>
 <a href="https://github.com/Qziky"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>

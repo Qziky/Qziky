@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" viewBox="0 0 854 220" role="img" aria-labelledby="title desc">
+  <title id="title">QZIKY</title>
+  <desc id="desc">心有阳光，万物可爱</desc>
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+    <clipPath id="typing-clip">
+      <rect class="typing-mask" x="337" y="119" width="180" height="28" />
+    </clipPath>
+  </defs>
+  <style>
+    .name { font: italic 700 72px 'Cascadia Code', Consolas, 'Liberation Mono', monospace; }
+    .motto { font: 500 20px 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif; }
+    .typing-mask { animation: typing 6s steps(9, end) infinite; }
+    .cursor { animation: cursor-position 6s steps(9, end) infinite, blink .8s step-end infinite; }
+    .wave-back { animation: wave-back 20s ease-in-out infinite; }
+    .wave-front { animation: wave-front 20s ease-in-out -10s infinite; }
+    @keyframes wave-back {
+      0%, 100% { d: path('M0 0L0 140Q213.5 180 427 150T854 175L854 0Z'); }
+      33% { d: path('M0 0L0 165Q213.5 180 427 160T854 150L854 0Z'); }
+      67% { d: path('M0 0L0 185Q213.5 155 427 185T854 150L854 0Z'); }
+    }
+    @keyframes wave-front {
+      0%, 100% { d: path('M0 0L0 155Q213.5 200 427 170T854 180L854 0Z'); }
+      33% { d: path('M0 0L0 170Q213.5 140 427 140T854 160L854 0Z'); }
+      67% { d: path('M0 0L0 165Q213.5 145 427 170T854 185L854 0Z'); }
+    }
+    @keyframes typing {
+      0%, 10% { width: 0px; }
+      46%, 76% { width: 180px; }
+      94%, 100% { width: 0px; }
+    }
+    @keyframes cursor-position {
+      0%, 10% { transform: translateX(0px); }
+      46%, 76% { transform: translateX(180px); }
+      94%, 100% { transform: translateX(0px); }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .typing-mask { animation: none; width: 180px; }
+      .cursor { display: none; }
+      .wave-back, .wave-front { animation: none; }
+    }
+  </style>
+  <path class="wave-back" fill="url(#background)" opacity=".4" d="M0 0L0 140Q213.5 180 427 150T854 175L854 0Z" />
+  <path class="wave-front" fill="url(#background)" opacity=".4" d="M0 0L0 155Q213.5 200 427 170T854 180L854 0Z" />
+  <text class="name" x="427" y="105" fill="#ffffff" text-anchor="middle">QZIKY</text>
+  <!-- Nine full-width characters keep each typing step aligned to a glyph. -->
+  <text class="motto" x="337" y="142" fill="#ffffff" textLength="180" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing-clip)">心有阳光，万物可爱</text>
+  <rect class="cursor" x="338" y="122" width="2" height="22" fill="#ffffff" />
+</svg>
