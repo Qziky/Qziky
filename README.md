@@ -11,13 +11,7 @@
 
 ## `whoami`
 
-```text
-ID        Qziky
-ROLE      Computer Science Student · Full-Stack Developer
-FOCUS     Vibe Coding · AI Products · Creative Tools
-LOCATION  Chengdu, Sichuan
-MBTI      INFJ-T
-```
+<img src="./assets/profile-cards.svg" width="100%" alt="Qziky 个人信息与能力卡片" />
 
 > 把灵感变成产品，把复杂的技术变成简单的体验。
 
@@ -35,12 +29,6 @@ MBTI      INFJ-T
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 </div>
-
-| 能力 | 我在做什么 |
-| --- | --- |
-| 全栈开发 | 设计、开发、部署和维护完整项目 |
-| AI 创作 | 探索 AI 辅助开发与内容生产 |
-| 视觉表达 | PPT 制作、视频剪辑与产品呈现 |
 
 ## Connect
 

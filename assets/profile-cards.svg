@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="360" viewBox="0 0 854 360" role="img" aria-labelledby="title description">
+  <title id="title">Qziky 个人信息与能力卡片</title>
+  <desc id="description">个人身份、兴趣方向和核心能力的 SVG 卡片布局</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif; }
+    .eyebrow { fill: #38bdf8; font-size: 12px; font-weight: 700; letter-spacing: 1.5px; }
+    .heading { fill: #f8fafc; font-size: 21px; font-weight: 700; }
+    .label { fill: #94a3b8; font-size: 12px; }
+    .value { fill: #e2e8f0; font-size: 14px; font-weight: 600; }
+    .chip { fill: #cbd5e1; font-size: 12px; font-weight: 600; }
+  </style>
+  <rect width="854" height="360" rx="12" fill="#0b1120" />
+  <rect x="18" y="18" width="818" height="148" rx="10" fill="#111827" stroke="#1e3a5f" />
+  <text x="42" y="49" class="eyebrow">PROFILE / 01</text>
+  <text x="42" y="84" class="heading">Qziky</text>
+  <text x="42" y="111" class="label">计算机专业在读大学生 · 全栈开发者 · Vibe Coder · AI 爱好者</text>
+  <text x="42" y="140" class="value">⌖ 四川成都</text>
+  <text x="680" y="84" class="label">MBTI</text>
+  <text x="680" y="113" class="heading">INFJ-T</text>
+  <rect x="18" y="184" width="262" height="158" rx="10" fill="#111827" stroke="#1f2937" />
+  <rect x="296" y="184" width="262" height="158" rx="10" fill="#111827" stroke="#1f2937" />
+  <rect x="574" y="184" width="262" height="158" rx="10" fill="#111827" stroke="#1f2937" />
+  <text x="42" y="217" class="eyebrow">BUILD</text>
+  <text x="42" y="250" class="heading">全栈开发</text>
+  <text x="42" y="278" class="label">项目设计、开发、部署</text>
+  <text x="42" y="299" class="label">和持续运维</text>
+  <rect x="42" y="316" width="80" height="4" rx="2" fill="#38bdf8" />
+  <text x="320" y="217" class="eyebrow">EXPLORE</text>
+  <text x="320" y="250" class="heading">AI 创作</text>
+  <text x="320" y="278" class="label">探索 AI 辅助开发</text>
+  <text x="320" y="299" class="label">与内容生产</text>
+  <rect x="320" y="316" width="80" height="4" rx="2" fill="#a78bfa" />
+  <text x="598" y="217" class="eyebrow">CREATE</text>
+  <text x="598" y="250" class="heading">视觉表达</text>
+  <text x="598" y="278" class="label">PPT 制作、视频剪辑</text>
+  <text x="598" y="299" class="label">与产品呈现</text>
+  <rect x="598" y="316" width="80" height="4" rx="2" fill="#4ade80" />
+</svg>
