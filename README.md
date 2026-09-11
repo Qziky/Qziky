@@ -42,35 +42,6 @@ MBTI      INFJ-T
 | AI 创作 | 探索 AI 辅助开发与内容生产 |
 | 视觉表达 | PPT 制作、视频剪辑与产品呈现 |
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` · [NovelCraft](https://github.com/Qziky/NovelCraft)
-
-**AI × Novel Creation**
-
-面向创作者的小说创作项目，探索 AI 辅助写作、内容组织与沉浸式创作体验。
-
-<a href="https://github.com/Qziky/NovelCraft">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### `02` · [Immersive-clock](https://github.com/Qziky/Immersive-clock)
-
-**Focus × Desktop Experience**
-
-专注于沉浸感与效率体验的桌面时钟应用，融合倒计时、氛围和日常工具。
-
-<a href="https://github.com/Qziky/Immersive-clock">View Repository →</a>
-
-</td>
-</tr>
-</table>
-
 ## Connect
 
 <div align="center">
@@ -85,8 +56,8 @@ MBTI      INFJ-T
 
 <div align="center">
 
-<a href="https://github.com/Qziky"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Qziky&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=22d3ee&text_color=e2e8f0" alt="Qziky GitHub 统计" /></a>
-<a href="https://github.com/Qziky"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qziky&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" alt="Qziky 常用语言" /></a>
+<a href="https://github.com/Qziky"><img width="420" src="./assets/github-stats.svg" alt="Qziky GitHub 统计：公开原创仓库、Star、Fork 和关注者，每日更新" /></a>
+<a href="https://github.com/Qziky"><img width="420" src="./assets/top-languages.svg" alt="Qziky 常用语言：按公开原创仓库代码字节数统计，每日更新" /></a>
 
 <br />
 

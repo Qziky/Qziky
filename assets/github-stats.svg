@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-labelledby="title description">
+  <title id="title">Qziky / GitHub</title>
+  <desc id="description">原创仓库 5，获得 Star 18，获得 Fork 1，关注者 2</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif; fill: #e2e8f0; font-size: 13px; }
+    .title { fill: #38bdf8; font-size: 18px; font-weight: 600; }
+    .value { fill: #ffffff; font-size: 25px; font-weight: 700; }
+    .muted { fill: #a6b6cc; font-size: 11px; }
+  </style>
+  <rect width="420" height="190" rx="8" fill="#0f172a" />
+  <text x="22" y="33" class="title">Qziky / GitHub</text>
+  <text x="22" y="76" class="value">5</text><text x="90" y="73" class="">原创仓库</text>
+  <text x="227" y="76" class="value">18</text><text x="295" y="73" class="">获得 Star</text>
+  <text x="22" y="132" class="value">1</text><text x="90" y="129" class="">获得 Fork</text>
+  <text x="227" y="132" class="value">2</text><text x="295" y="129" class="">关注者</text>
+  <text x="22" y="174" class="muted">公开原创仓库 · 2026-09-11 UTC</text>
+</svg>
