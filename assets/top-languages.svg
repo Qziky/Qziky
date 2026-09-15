@@ -9,16 +9,16 @@
   </style>
   <rect width="420" height="190" rx="8" fill="#0f172a" />
   <text x="22" y="33" class="title">Code / Languages</text>
-  <rect x="22.000" y="52" width="249.963" height="10" fill="#38bdf8" />
-  <rect x="271.963" y="52" width="101.955" height="10" fill="#f6c85f" />
-  <rect x="373.918" y="52" width="17.694" height="10" fill="#a78bfa" />
-  <rect x="391.612" y="52" width="4.571" height="10" fill="#4ade80" />
-  <rect x="396.183" y="52" width="1.477" height="10" fill="#fb7185" />
-  <rect x="397.660" y="52" width="0.340" height="10" fill="#94a3b8" /><circle cx="26" cy="87" r="4" fill="#38bdf8" /><text x="36" y="91" class="">TypeScript 66.5%</text>
-  <circle cx="220" cy="87" r="4" fill="#f6c85f" /><text x="230" y="91" class="">Python 27.1%</text>
-  <circle cx="26" cy="111" r="4" fill="#a78bfa" /><text x="36" y="115" class="">CSS 4.7%</text>
+  <rect x="22.000" y="52" width="242.836" height="10" fill="#38bdf8" />
+  <rect x="264.836" y="52" width="109.665" height="10" fill="#f6c85f" />
+  <rect x="374.501" y="52" width="17.190" height="10" fill="#a78bfa" />
+  <rect x="391.691" y="52" width="4.441" height="10" fill="#4ade80" />
+  <rect x="396.132" y="52" width="1.435" height="10" fill="#fb7185" />
+  <rect x="397.567" y="52" width="0.433" height="10" fill="#94a3b8" /><circle cx="26" cy="87" r="4" fill="#38bdf8" /><text x="36" y="91" class="">TypeScript 64.6%</text>
+  <circle cx="220" cy="87" r="4" fill="#f6c85f" /><text x="230" y="91" class="">Python 29.2%</text>
+  <circle cx="26" cy="111" r="4" fill="#a78bfa" /><text x="36" y="115" class="">CSS 4.6%</text>
   <circle cx="220" cy="111" r="4" fill="#4ade80" /><text x="230" y="115" class="">JavaScript 1.2%</text>
   <circle cx="26" cy="135" r="4" fill="#fb7185" /><text x="36" y="139" class="">HTML 0.4%</text>
   <circle cx="220" cy="135" r="4" fill="#94a3b8" /><text x="230" y="139" class="">Other 0.1%</text>
-  <text x="22" y="174" class="muted">代码字节占比 · 2026-09-14 UTC</text>
+  <text x="22" y="174" class="muted">代码字节占比 · 2026-09-15 UTC</text>
 </svg>
