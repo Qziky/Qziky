@@ -9,16 +9,16 @@
   </style>
   <rect width="420" height="190" rx="8" fill="#0f172a" />
   <text x="22" y="33" class="title">Code / Languages</text>
-  <rect x="22.000" y="52" width="242.836" height="10" fill="#38bdf8" />
-  <rect x="264.836" y="52" width="109.665" height="10" fill="#f6c85f" />
-  <rect x="374.501" y="52" width="17.190" height="10" fill="#a78bfa" />
-  <rect x="391.691" y="52" width="4.441" height="10" fill="#4ade80" />
-  <rect x="396.132" y="52" width="1.435" height="10" fill="#fb7185" />
-  <rect x="397.567" y="52" width="0.433" height="10" fill="#94a3b8" /><circle cx="26" cy="87" r="4" fill="#38bdf8" /><text x="36" y="91" class="">TypeScript 64.6%</text>
-  <circle cx="220" cy="87" r="4" fill="#f6c85f" /><text x="230" y="91" class="">Python 29.2%</text>
-  <circle cx="26" cy="111" r="4" fill="#a78bfa" /><text x="36" y="115" class="">CSS 4.6%</text>
-  <circle cx="220" cy="111" r="4" fill="#4ade80" /><text x="230" y="115" class="">JavaScript 1.2%</text>
+  <rect x="22.000" y="52" width="235.585" height="10" fill="#38bdf8" />
+  <rect x="257.585" y="52" width="117.618" height="10" fill="#f6c85f" />
+  <rect x="375.203" y="52" width="16.676" height="10" fill="#a78bfa" />
+  <rect x="391.879" y="52" width="4.308" height="10" fill="#4ade80" />
+  <rect x="396.187" y="52" width="1.392" height="10" fill="#fb7185" />
+  <rect x="397.580" y="52" width="0.420" height="10" fill="#94a3b8" /><circle cx="26" cy="87" r="4" fill="#38bdf8" /><text x="36" y="91" class="">TypeScript 62.7%</text>
+  <circle cx="220" cy="87" r="4" fill="#f6c85f" /><text x="230" y="91" class="">Python 31.3%</text>
+  <circle cx="26" cy="111" r="4" fill="#a78bfa" /><text x="36" y="115" class="">CSS 4.4%</text>
+  <circle cx="220" cy="111" r="4" fill="#4ade80" /><text x="230" y="115" class="">JavaScript 1.1%</text>
   <circle cx="26" cy="135" r="4" fill="#fb7185" /><text x="36" y="139" class="">HTML 0.4%</text>
   <circle cx="220" cy="135" r="4" fill="#94a3b8" /><text x="230" y="139" class="">Other 0.1%</text>
-  <text x="22" y="174" class="muted">代码字节占比 · 2026-09-21 UTC</text>
+  <text x="22" y="174" class="muted">代码字节占比 · 2026-09-22 UTC</text>
 </svg>
