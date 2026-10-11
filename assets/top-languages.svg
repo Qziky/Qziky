@@ -9,16 +9,16 @@
   </style>
   <rect width="420" height="190" rx="8" fill="#0f172a" />
   <text x="22" y="33" class="title">Code / Languages</text>
-  <rect x="22.000" y="52" width="240.675" height="10" fill="#38bdf8" />
-  <rect x="262.675" y="52" width="112.488" height="10" fill="#f6c85f" />
-  <rect x="375.163" y="52" width="16.571" height="10" fill="#a78bfa" />
-  <rect x="391.734" y="52" width="4.121" height="10" fill="#4ade80" />
-  <rect x="395.855" y="52" width="1.331" height="10" fill="#fb7185" />
-  <rect x="397.187" y="52" width="0.813" height="10" fill="#94a3b8" /><circle cx="26" cy="87" r="4" fill="#38bdf8" /><text x="36" y="91" class="">TypeScript 64.0%</text>
-  <circle cx="220" cy="87" r="4" fill="#f6c85f" /><text x="230" y="91" class="">Python 29.9%</text>
+  <rect x="22.000" y="52" width="241.847" height="10" fill="#38bdf8" />
+  <rect x="263.847" y="52" width="111.387" height="10" fill="#f6c85f" />
+  <rect x="375.235" y="52" width="16.561" height="10" fill="#a78bfa" />
+  <rect x="391.796" y="52" width="4.081" height="10" fill="#4ade80" />
+  <rect x="395.876" y="52" width="1.318" height="10" fill="#fb7185" />
+  <rect x="397.195" y="52" width="0.805" height="10" fill="#94a3b8" /><circle cx="26" cy="87" r="4" fill="#38bdf8" /><text x="36" y="91" class="">TypeScript 64.3%</text>
+  <circle cx="220" cy="87" r="4" fill="#f6c85f" /><text x="230" y="91" class="">Python 29.6%</text>
   <circle cx="26" cy="111" r="4" fill="#a78bfa" /><text x="36" y="115" class="">CSS 4.4%</text>
   <circle cx="220" cy="111" r="4" fill="#4ade80" /><text x="230" y="115" class="">JavaScript 1.1%</text>
   <circle cx="26" cy="135" r="4" fill="#fb7185" /><text x="36" y="139" class="">HTML 0.4%</text>
   <circle cx="220" cy="135" r="4" fill="#94a3b8" /><text x="230" y="139" class="">Other 0.2%</text>
-  <text x="22" y="174" class="muted">代码字节占比 · 2026-10-10 UTC</text>
+  <text x="22" y="174" class="muted">代码字节占比 · 2026-10-11 UTC</text>
 </svg>
